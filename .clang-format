@@ -6,8 +6,8 @@ AlignAfterOpenBracket: true
 AlignArrayOfStructures: Left
 AlignTrailingComments : Always
 AllowShortBlocksOnASingleLine: Empty
-AllowShortCaseExpressionOnASingleLine : true
-AllowShortCaseLabelsOnASingleLine: true
+AllowShortCaseExpressionOnASingleLine : false
+AllowShortCaseLabelsOnASingleLine: false
 AllowShortCompoundRequirementOnASingleLine: true
 AllowShortEnumsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: Empty
@@ -84,6 +84,7 @@ SpaceBeforeParens: false
 SpaceBeforeRangeBasedForLoopColon: true
 SpaceBeforeSquareBrackets: false
 SpaceInEmptyBraces: Never
+SpacesInBracedLists: false
 SpacesInAngles: Never
 SpacesInContainerLiterals: false
 SpacesInSquareBrackets: false
